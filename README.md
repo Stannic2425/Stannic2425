@@ -1,5 +1,5 @@
 # 💫 About Me:
-AMm a college student purisng my second year in computer science engineering
+Hi am VISWA SUDHAN ,a passionate and driven M.Tech Integrated CSE student at SRM University, Chennai. I'm currently in my second year, actively exploring the intersection of Computer Science, Electronics, and the Internet of Things (IoT). My interests lie in developing smart, sustainable technologies—especially in areas like autonomous systems, AI integration, and environmental innovation.
 
 
 ## 🌐 Socials:
